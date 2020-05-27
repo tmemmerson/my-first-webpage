@@ -47,7 +47,7 @@ _No known bugs as of **05/27/2020**_
 
   
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
+_Questions, comments and concerns can be directed to the author [Tristan Emmerson](tristan@stickerslug.com)_
 
   
 
