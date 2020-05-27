@@ -23,19 +23,15 @@ _This exercise is intended to introduce the cursory concepts of HTML & CSS. Addi
 
   
 
-*  __
+*  _download/install Google Chrome Browser [here](https://www.google.com/chrome/)_
 
-*  __
+*  _**FOR WINDOWS:** download/install Git for Windows [here](https://gitforwindows.org/)_ (v2.62.2 or newer)
 
-*  __
+*  _**FOR MAC USERS:** use preinstalled terminal software_
 
-*  __
+*  _clone repository via Terminal/Git for Windows from Github [here](https://github.com/tmemmerson/my-first-webpage.git)_
 
-*  __
-
-  
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+*  _double-click my-first-webpage.html from cloned repository and **marvel** at the **wonder** therein_
 
   
 
