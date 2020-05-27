@@ -6,10 +6,14 @@ h1 {
   h2 {
     font-style: italic;
     text-align: center;
+    color: #d41f1f;
   }
   
   p {
     font-family: sans-serif;
+    color: #ff1100;
+    font-size: 26px;
+    text-align: center;
   }
   
   ul {
@@ -17,15 +21,22 @@ h1 {
     line-height: 30px;
   }
 
-  galaxy-header {
-      display: block;
-      width: 1200px;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%;
+  .galaxy-header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 25px;
   }
 
-  planets {
-      width: 150px;
-      
+  .planets {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 15px;
+  }
+
+  table, th, td {
+    border: 3px solid rgb(216, 90, 18);
   }
