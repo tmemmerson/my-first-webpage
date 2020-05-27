@@ -17,7 +17,7 @@
 
 _This exercise is intended to introduce the cursory concepts of HTML & CSS. Additionally, the concepts of Github and the use of a terminal to interact with and modify repositories. These and other peripheral programming concepts have been introduced with the intent to practice these concepts in Visual Studio._
 
-  
+
 
 ## Setup/Installation Requirements
 
