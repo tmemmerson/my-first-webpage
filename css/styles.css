@@ -10,9 +10,13 @@ h1 {
   
   p {
     font-family: sans-serif;
+    color: #8fb5e7;
   }
   
   ul {
     font-size: 20px;
     line-height: 30px;
+    color: #0000ff;
+  }    
+  ol {color: #0000ff;
   }
