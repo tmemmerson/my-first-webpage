@@ -63,8 +63,8 @@ _**Additional software used in creation:** [Visual Studio Code](https://code.vis
 
   
 
-*{Determine the license under which this application can be used. See below for more details on licensing.}*
+*osl-3.0*
 
   
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Tristan Emmerson, President [Stickerslug Incorporated](http://stickerslug.com)_**
