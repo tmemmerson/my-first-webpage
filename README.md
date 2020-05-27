@@ -39,7 +39,7 @@ _This exercise is intended to introduce the cursory concepts of HTML & CSS. Addi
 
   
 
-_{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }_
+_No known bugs as of **05/27/2020**_
 
   
 
